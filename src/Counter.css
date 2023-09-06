@@ -1,0 +1,46 @@
+
+.counter-body {
+    background-color: rgb(192, 165, 192);
+    height: 500px;
+    align-items: center;
+    display: flex;
+}
+
+.counter-app {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    
+}
+
+.app-title {
+    font-size: 24px;
+    margin-bottom: 5px;
+
+}
+
+.count-display {
+    font-size: 50px;
+    color: blue;
+    padding: 5px;
+    font-weight: bold;
+   
+    
+}
+
+.button {
+    background-color: lightgray;
+    border: solid;
+    cursor: pointer;
+    margin: 5px;
+    padding: 10px;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    background-color: lightgrey;
+    
+    
+}
